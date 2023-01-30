@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Library/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
-  (lib (name "SIM7100-6-1-15-00-A_REVC")(type "Legacy")(uri "${KIPRJMOD}/Library/SIM7100-6-1-15-00-A_REVC/SIM7100-6-1-15-00-A_REVC.lib")(options "")(descr ""))
-  (lib (name "Telit-G30")(type "KiCad")(uri "${KIPRJMOD}/Library/Telit-G30.kicad_sym")(options "")(descr ""))
-  (lib (name "microsd_spi_cd")(type "Legacy")(uri "${KIPRJMOD}/Library/microsd/microsd_spi_cd.lib")(options "")(descr ""))
-)
