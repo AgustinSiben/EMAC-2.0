@@ -1,7 +1,0 @@
-(fp_lib_table
-  (lib (name "PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal_borderless")(type "KiCad")(uri "${KIPRJMOD}/Library/PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal_borderless.pretty")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Library/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
-  (lib (name "SIM7100-6-1-15-00-A_REVC")(type "KiCad")(uri "${KIPRJMOD}/Library/SIM7100-6-1-15-00-A_REVC.pretty")(options "")(descr ""))
-  (lib (name "PhoenixContact_Borderless")(type "KiCad")(uri "${KIPRJMOD}/Library/PhoenixContact_Borderless.pretty")(options "")(descr ""))
-  (lib (name "microsd")(type "KiCad")(uri "${KIPRJMOD}/Library/microsd")(options "")(descr ""))
-)
