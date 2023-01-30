@@ -1,0 +1,14 @@
+[rad000 - Radiacion Davis]
+ID=23
+Descripcion=Radiacion (Davis 7821)
+Unidad=W/m2
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;2994;
+--=--

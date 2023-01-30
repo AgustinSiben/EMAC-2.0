@@ -1,0 +1,14 @@
+[vol001 - Voltaje max300v]
+ID=53
+Descripcion=Voltaje max300V
+Unidad=V
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;300;
+--=--

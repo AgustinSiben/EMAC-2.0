@@ -1,0 +1,11 @@
+[per000 - Periodo Olas 050]
+ID=62
+Descripcion=Periodo 0-50 seg
+Unidad=s
+Decimales=1
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;5;
+Y=0;50;
+--=--

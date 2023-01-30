@@ -1,0 +1,11 @@
+[vel003 - Anemometro kh EMAC]
+ID=34
+Descripcion=Velocidad de Viento (km/h)
+Unidad=km/h
+Decimales=1
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0.025;5;
+Y=0;150;
+--=--

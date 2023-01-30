@@ -1,0 +1,11 @@
+[phyc001 - Phycocyanin 050.sen]
+ID=63
+Descripcion=Concentracion de Phycocyanin
+Unidad=ppb
+Decimales=1
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;5;
+Y=0;1000;
+--=--

@@ -1,0 +1,14 @@
+[vol000 - Voltaje max5V]
+ID=2
+Descripcion=Voltaje max5V
+Unidad=V
+Decimales=3
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;5;
+--=--

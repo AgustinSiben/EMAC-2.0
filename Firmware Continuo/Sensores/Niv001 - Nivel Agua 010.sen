@@ -1,0 +1,14 @@
+[Niv001 - Nivel Agua 010]
+ID=10
+Descripcion=Nivel Agua 0 - 10m
+Unidad=m
+Decimales=2
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.2;4.5;
+Y=0;10;
+--=--

@@ -1,0 +1,14 @@
+[Flu000 - Flujo Calor]
+ID=30
+Descripcion=Flujo de Calor
+Unidad=W/m2
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;2.5;5;
+Y=-1000;0;1000;
+--=--

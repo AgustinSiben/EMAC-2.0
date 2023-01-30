@@ -1,0 +1,14 @@
+[con001 - Conductividad 05]
+ID=13
+Descripcion=Conductividad 0-5000
+Unidad=uS
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.0;4;
+Y=0;5000;
+--=--

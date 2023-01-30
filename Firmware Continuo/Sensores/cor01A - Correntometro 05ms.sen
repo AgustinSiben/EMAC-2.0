@@ -1,0 +1,14 @@
+[cor01A - Correntometro 05ms]
+ID=48
+Descripcion=Correntometro 05ms
+Unidad=m/s
+Decimales=2
+;Entrada=TENSION
+Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;500;
+Y=0;5;
+--=--

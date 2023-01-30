@@ -1,0 +1,14 @@
+[dis001 - Distance Meters 010]
+ID=41
+Descripcion=Distancia 0-10m
+Unidad=m
+Decimales=2
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;10;
+--=--

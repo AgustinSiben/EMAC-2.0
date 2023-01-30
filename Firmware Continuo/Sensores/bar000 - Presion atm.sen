@@ -1,0 +1,11 @@
+[bar000 - Presion atm]
+ID=17
+Descripcion=Presion atm
+Unidad=v
+Decimales=1
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;0.099;0.1;5;
+Y=-9999;-9999;966;1059;
+--=--

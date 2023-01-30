@@ -1,0 +1,14 @@
+[vel000 - Anemometro kh]
+ID=5
+Descripcion=Velocidad de Viento (km/h)
+Unidad=km/h
+Decimales=0
+;Entrada=TENSION
+Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;1000;
+Y=0;288;
+--=--

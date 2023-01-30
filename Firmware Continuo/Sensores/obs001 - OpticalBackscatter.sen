@@ -1,0 +1,14 @@
+[obs001 - OpticalBackscatter]
+ID=19
+Descripcion=Concentracion SS
+Unidad=-
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;1024;
+--=--

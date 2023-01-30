@@ -1,0 +1,14 @@
+[phh001 - pH 014]
+ID=40
+Descripcion= pH (potencial de hidrogeno)
+Unidad=pH
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.8;4;
+Y=0;14;
+--=--

@@ -1,0 +1,14 @@
+[rad003 - Radiacion NETA]
+ID=26
+Descripcion=Radiacion NETA
+Unidad=W/m2
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;1;5;
+Y=-375;0;1500;
+--=--

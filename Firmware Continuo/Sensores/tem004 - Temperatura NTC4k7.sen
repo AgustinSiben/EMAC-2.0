@@ -1,0 +1,14 @@
+[tem004 - Temperatura NTC4k7]
+ID=60
+Descripcion=Temperatura NTC 4k7
+Unidad=°C
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.661;0.866;1.209;1.660;2.189;2.766;3.361;3.844;4.217;4.477;4.643;
+Y=60;50;40;30;20;10;0;-10;-20;-30;-40;
+--=--

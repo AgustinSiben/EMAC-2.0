@@ -1,0 +1,11 @@
+[hum000 - Humedad]
+ID=9
+Descripcion=Humedad Relativa
+Unidad=%
+Decimales=0
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0.8;3.9;
+Y=0;100;
+--=--

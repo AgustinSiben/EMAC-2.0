@@ -1,0 +1,14 @@
+[dox001 - Dissolve Oxygen 0200]
+ID=39
+Descripcion=Oxigeno Disuelto
+Unidad=%
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.8;4;
+Y=0;200;
+--=--

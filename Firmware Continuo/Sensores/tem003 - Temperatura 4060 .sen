@@ -1,0 +1,14 @@
+[tem003 - Temperatura 4060]
+ID=36
+Descripcion=Temperatura del Aire
+Unidad=°C
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=-40;60;
+--=--

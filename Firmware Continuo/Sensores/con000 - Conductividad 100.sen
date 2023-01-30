@@ -1,0 +1,11 @@
+[con000 - Conductividad 100]
+ID=12
+Descripcion=Conductividad 0-100 
+Unidad=mS/cm
+Decimales=1
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;5;
+Y=0;100;
+--=--

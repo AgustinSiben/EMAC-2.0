@@ -1,0 +1,14 @@
+[plu001 - Pluviometro_06mm]
+ID=37
+Descripcion=Precipitacion 0.6mm
+Unidad=mm
+Decimales=2
+;Entrada=TENSION
+Entrada=PULSO
+;Modo=CICLO
+Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;1000;
+Y=0;600;
+--=--

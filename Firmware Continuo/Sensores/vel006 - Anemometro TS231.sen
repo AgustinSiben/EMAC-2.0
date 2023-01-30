@@ -1,0 +1,14 @@
+[vel006 - Anemometro TS231]
+ID=68
+Descripcion=Anemometro TS231
+Unidad=m/s
+Decimales=2
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;4;
+Y=0;60;
+--=--

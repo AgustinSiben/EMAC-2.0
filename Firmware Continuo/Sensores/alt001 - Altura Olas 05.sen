@@ -1,0 +1,14 @@
+[alt001 - Altura Olas 05]
+ID=42
+Descripcion=Altura de Olas 0-5 mts
+Unidad=m
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;5;
+--=--

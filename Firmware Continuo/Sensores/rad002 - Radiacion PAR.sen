@@ -1,0 +1,11 @@
+[rad002 - Radiacion PAR]
+ID=25
+Descripcion=Radiacion PAR
+Unidad=uMol/m2
+Decimales=0
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;0.009;0.01;5;
+Y=0;0;4;2000;
+--=--

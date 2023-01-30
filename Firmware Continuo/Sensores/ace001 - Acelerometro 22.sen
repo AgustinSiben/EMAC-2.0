@@ -1,0 +1,14 @@
+[ace001 - Acelerometro 22]
+ID=58
+Descripcion= Acelerometro -2 a 2g
+Unidad=g
+Decimales=2
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=-2;2;
+--=--

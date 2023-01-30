@@ -1,0 +1,11 @@
+[hum001 - Humedad TS251]
+ID=70
+Descripcion=Humedad Relativa TS251
+Unidad=%
+Decimales=0
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0.5;4;
+Y=0;100;
+--=--

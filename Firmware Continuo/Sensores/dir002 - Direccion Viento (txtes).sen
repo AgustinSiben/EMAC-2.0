@@ -1,0 +1,14 @@
+[dir002 - Direccion Viento (txtes)]
+ID=8
+Descripcion=Direccion del Viento (Norte ...)
+Unidad=-
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+Salida=TEXTO
+;Salida=NUMERO
+X=0;0.3125;0.625;0.9375;1.25;1.5625;1.875;2.1875;2.5;2.8125;3.125;3.4375;3.75;4.0625;4.375;4.6875;5;
+Y=Norte;NorNorEste;NorEste;EsteNorEste;Este;EsteSudEste;SudEste;SudSudEste;Sur;SudSudOeste;SudOeste;OesteSudOeste;Oeste;OesteNorOeste;NorOeste;NorNorOeste;Norte;
+--=--

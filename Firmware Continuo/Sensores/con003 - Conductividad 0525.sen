@@ -1,0 +1,14 @@
+[con003 - Conductividad 0525]
+ID=15
+Descripcion=Conductividad 0.5-25
+Unidad=mS/cm
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.02;4;
+Y=0;25;
+--=--

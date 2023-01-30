@@ -1,0 +1,14 @@
+[gen00B - Generic Sensor]
+ID=49
+Descripcion=Generic Sensor
+Unidad=V
+Decimales=3
+;Entrada=TENSION
+Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;1023;
+Y=0;1023;
+--=--

@@ -1,0 +1,26 @@
+{
+    "EMAC":{
+        "SAMPLE_RATE_ms":1000,
+        "TABLES_PATH": "/sd/Sensores",
+        "ADC_Vref": 4.9
+    },
+
+    "CONFIGURATION":{
+        "name": "SHNU",
+        "channels_cfg": [12,65,2,2,2,2,2,2,2,2,2,2]
+    },
+
+    "COMUNICATION":{
+        "WIFI":{
+            "ENABLED": "true",
+            "SEND_PERIOD_S":120,
+            "LAN_SSID": "",
+            "LAN_PASSWORD": "",
+            "SERVER_IP": "",
+            "SERVER_PORT": 40001
+        },
+        "GPS":{
+            "CONNECTION": "EXTERNAL"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+[plu002 - Pluviometro TS221]
+ID=67
+Descripcion=Pluviometro TS221
+Unidad=mm
+Decimales=2
+;Entrada=TENSION
+Entrada=PULSO
+;Modo=CICLO
+Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;1000;
+Y=0;250;
+--=--

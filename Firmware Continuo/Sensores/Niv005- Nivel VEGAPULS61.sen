@@ -1,0 +1,14 @@
+[Niv005- Nivel VEGAPULS61]
+ID=73
+Descripcion=Nivel VEGAPULS61
+Unidad=m
+Decimales=2
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0.8;4;
+Y=0;20;
+--=--

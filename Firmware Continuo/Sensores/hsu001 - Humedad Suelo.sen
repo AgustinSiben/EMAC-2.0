@@ -1,0 +1,14 @@
+[hsu001 - Humedad Suelo]
+ID=56
+Descripcion= Humedad del Suelo
+Unidad=%
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;100;
+--=--

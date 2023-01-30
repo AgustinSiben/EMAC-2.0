@@ -1,0 +1,14 @@
+[vel002 - Generic velocity kh]
+ID=28
+Descripcion=Velocidad (km/h)
+Unidad=km/h
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;300;
+--=--

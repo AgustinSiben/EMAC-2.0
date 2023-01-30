@@ -1,0 +1,14 @@
+[Niv004 - Nivel Agua 030]
+ID=52
+Descripcion=Nivel del Agua 0-30m
+Unidad=m
+Decimales=2
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;30;
+--=--

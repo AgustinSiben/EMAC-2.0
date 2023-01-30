@@ -1,0 +1,11 @@
+[bat000 - Tension Bateria]
+ID=27
+Descripcion=Tension Bateria
+Unidad=V
+Decimales=2
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;5;
+Y=0;55;
+--=--

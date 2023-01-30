@@ -1,0 +1,11 @@
+[bar001 - Presion atm TS290]
+ID=72
+Descripcion=Presion atm TS290
+Unidad=hpa
+Decimales=1
+Entrada=TENSION
+Modo=CICLO
+Salida=NUMERO
+X=0;4;
+Y=600;1100;
+--=--

@@ -1,0 +1,14 @@
+[con002 - Conductividad 0400]
+ID=14
+Descripcion=Conductividad 0-400
+Unidad=mS/cm
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;500;
+--=--

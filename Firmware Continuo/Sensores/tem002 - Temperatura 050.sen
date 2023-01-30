@@ -1,0 +1,14 @@
+[tem002 - Temperatura 050]
+ID=32
+Descripcion=Temperatura del Agua
+Unidad=°C
+Decimales=1
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;50;
+--=--

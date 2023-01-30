@@ -1,0 +1,14 @@
+[amp000 - Ampere max1A]
+ID=54
+Descripcion= Ampere max1A
+Unidad=A
+Decimales=3
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;1;
+--=--

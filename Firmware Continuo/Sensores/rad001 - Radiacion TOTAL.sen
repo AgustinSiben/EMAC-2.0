@@ -1,0 +1,14 @@
+[rad001 - Radiacion TOTAL]
+ID=24
+Descripcion=Radiacion TOTAL
+Unidad=W/m2
+Decimales=0
+Entrada=TENSION
+;Entrada=PULSO
+Modo=CICLO
+;Modo=ACUMULAR
+;Salida=TEXTO
+Salida=NUMERO
+X=0;5;
+Y=0;2000;
+--=--
