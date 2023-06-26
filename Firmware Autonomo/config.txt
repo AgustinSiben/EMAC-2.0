@@ -1,0 +1,10 @@
+config 6235072c8835072c780026000101010101010101010058585858
+wireless_config ate0, AT+CREG=1, AT+MIPCALL=1,"igprs.claro.com.ar","","", AT+MIPOPEN=1,40000,"190.124.196.178",40000,0
+communication_using WIFI
+ssid_password 29300000000008WF admin123
+ip_port 190.124.196.178 8080
+periodes_to_send 2
+mercurry_v_ref 5.02
+emac_vref 4.894
+
+ssid_password BVNET-4CB24CB2 H7KFYX77TYMRNV44
